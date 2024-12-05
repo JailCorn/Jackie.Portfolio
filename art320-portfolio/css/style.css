@@ -1,0 +1,56 @@
+/* Fonts */
+.dm-serif-display-regular {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.albert-sans-reg {
+  font-family: "Albert Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Text Styles */
+body {
+    background-color: white;
+    margin: 5rem;
+  }
+  h1, h2, h3 {
+    font-family: "DM Serif Display", serif;
+    color: #002975;
+  }
+  nav, input, p {
+    font-family: "Albert Sans", sans-serif;
+    color: black;
+  }
+
+  h1.projectTitle {
+    text-align: center;
+  }
+
+/* Nav Styles */
+a.nav-link {
+  text-align: right;
+}
+
+/* Scroll Container Styles */
+div.scroll-container {
+  overflow: auto;
+  margin: 4rem;
+  white-space: nowrap;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.footer {
+  text-align: right;
+}
