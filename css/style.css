@@ -16,7 +16,7 @@
 /* Text Styles */
 body {
     background-color: white;
-    margin: 1rem;
+    margin: 5rem;
   }
   h1, h2, h3 {
     font-family: "DM Serif Display", serif;
@@ -31,8 +31,6 @@ body {
     text-align: center;
   }
 
-
-
 /* Nav Styles */
 a.nav-link {
   text-align: right;
@@ -41,10 +39,18 @@ a.nav-link {
 /* Scroll Container Styles */
 div.scroll-container {
   overflow: auto;
-  margin: 1rem;
+  margin: 4rem;
   white-space: nowrap;
 }
 
 div.scroll-container img {
   padding: 10px;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.footer {
+  text-align: right;
 }
